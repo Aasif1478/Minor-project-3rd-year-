@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mechanical Abduction Brace for Congenital Clubfoot</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background: #f4f4f9;
+      color: #333;
+    }
+    header {
+      background: #2c3e50;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #2c3e50;
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 5px;
+    }
+    ul {
+      margin-left: 20px;
+    }
+    .card {
+      background: white;
+      padding: 15px;
+      margin: 15px 0;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    footer {
+      background: #2c3e50;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Mechanical Abduction Brace for Congenital Clubfoot</h1>
+    <p>Minor Project (21BMP302L)</p>
+  </header>
+
+  <section>
+    <div class="card">
+      <h2>Introduction</h2>
+      <p>Talipes equinovarus (clubfoot) is a birth deformity where the foot twists inward and downward. Untreated cases lead to mobility restrictions and disability. The Ponseti method is the standard treatment but existing braces are rigid, costly, and uncomfortable. Our project aims to design a brace that is adjustable, ergonomic, affordable, and improves compliance.</p>
+    </div>
+
+    <div class="card">
+      <h2>Aim</h2>
+      <p>To design and develop a mechanical abduction brace using a gear-based adjustment mechanism and lightweight metal structure for improved comfort and cost-effectiveness.</p>
+    </div>
+
+    <div class="card">
+      <h2>Objectives</h2>
+      <ul>
+        <li>Precise gear mechanism for abduction (60–70° affected, 40–45° unaffected) and dorsiflexion (10–15°).</li>
+        <li>Lightweight aluminum/stainless steel rods with EVA padding.</li>
+        <li>Padded orthotic shoes with breathable lining & quick-release system.</li>
+        <li>Dynamic hinge for limited foot mobility and enhanced compliance.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>Literature Review</h2>
+      <p>Existing braces (Ponseti, Denis Browne, dynamic types) each have drawbacks such as rigidity, cost, or lack of precision. There is a research gap in combining comfort, adjustability, affordability, and compliance monitoring. Our solution proposes a gear-adjustable brace with padded rods and pressure sensors for wear-time tracking.</p>
+    </div>
+
+    <div class="card">
+      <h2>Methodology</h2>
+      <ul>
+        <li>Incorporate gear system for angle adjustment.</li>
+        <li>Lightweight padded rods for comfort.</li>
+        <li>Padded orthotic shoes with quick-release.</li>
+        <li>Dynamic hinge mechanism for mobility.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>Required Resources</h2>
+      <ul>
+        <li>Aluminum/Stainless steel rods</li>
+        <li>Orthotic shoe base, EVA foam, Velcro straps</li>
+        <li>Hinges, worm gear + spur gear</li>
+        <li>CAD software (Fusion 360, SolidWorks), 3D printer</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>Expected Outcome</h2>
+      <p>A cost-effective, ergonomic, and adjustable abduction brace prototype with wear-time monitoring through sensors and microcontroller feedback. This design ensures comfort, better compliance, and lower relapse rates.</p>
+    </div>
+
+    <div class="card">
+      <h2>References</h2>
+      <ul>
+        <li><a href="https://my.clevelandclinic.org/health/diseases/16889-clubfoot">Cleveland Clinic – Clubfoot</a></li>
+        <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10480528/">PMC Article on Clubfoot</a></li>
+        <li><a href="https://www.hss.edu/health-library/conditions-and-treatments/the-ponseti-method-for-clubfoot-correction">HSS – Ponseti Method</a></li>
+      </ul>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 | Mechanical Abduction Brace Project | GitHub Portfolio</p>
+  </footer>
+
+</body>
+</html>
